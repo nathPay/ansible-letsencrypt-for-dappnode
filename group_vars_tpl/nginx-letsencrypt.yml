@@ -1,0 +1,8 @@
+LETSENCRYPT_MAIL: "your.email@domain.name"
+BITWARDEN_DOMAIN_NAME: "bitwarden.exemple.com"
+NEXTCLOUD_DOMAIN_NAME: "nextcloud.exemple.com"
+LETSENCRYPT_DOMAIN_NAME_3: "other.exemple.com"
+PROXY_PORT_BITWARDEN: "8343"
+PROXY_PORT_NEXTCLOUD: "8353"
+PROXY_PORT_OTHER: "forwardToThisPort"
+nginx_headers: "on"
